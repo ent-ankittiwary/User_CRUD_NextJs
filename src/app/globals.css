@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caacupe+One&display=swap');
+@import "tailwindcss";
+
+/* body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-poppins,--font-inter);
+} */
+
+.caacupe-one-regular {
+  font-family: "Caacupe One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.signature {
+  font-family: var(--font-satisfy);
+}
+.hero {
+  background-image: url("../../public/bg_home_img.png");
+  background-size: cover;
+  background-position: center;
+}
